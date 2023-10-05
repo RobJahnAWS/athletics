@@ -18,7 +18,8 @@ http.createServer(function (req, res) {
     
     res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3030'); // this is a lil hacky but i was facing cors issues...
     res.write(JSON.stringify(athletes)); // Write out the default response
-    res.end(); //end the response
+    
+    setTimeout(() => res.end(), 1000); //end the response with a lil delay
 }).listen( port );
 
 

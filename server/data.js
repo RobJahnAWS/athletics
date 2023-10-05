@@ -192,7 +192,7 @@ var data = [
         "_id": "014",
         "isActive": "true",
         "age": "29",
-        "picture": "/img/athletes/thome.png",
+        "picture": "/img/athletes/thome.jpg",
         "name": "Jim Thome",
         "about": "James Howard Thome is an American former professional baseball corner infielder and designated hitter, who played in Major League Baseball for 22 seasons. ",
         "tags": [
