@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import SearchResults from './search/searchResults';
+import Search from './search/search';
 
 const Menu = () => {
 
@@ -27,7 +27,12 @@ const Menu = () => {
                     </nav>
                 </div>
             </div>
-            <SearchResults showingSearch={showingSearch} />
+            <Search 
+                showingSearch={showingSearch} 
+                showSearchContainer={showSearchContainer} 
+                keystrokeDelay={500}
+                minimumSearchLength={2}
+            />
         </header>
     );
 };
