@@ -331,3 +331,22 @@
 [5/10/2023 -- 10:17]  Scripts ran on main.js
 [5/10/2023 -- 10:18]  Scripts ran on main.js
 [5/10/2023 -- 10:18]  Scripts ran on main.js
+[5/10/2023 -- 11:13]  Info task started
+[5/10/2023 -- 11:13]  Mustache Templates ran on the HTML files
+[5/10/2023 -- 11:13]  Scripts ran on main.js
+[5/10/2023 -- 11:13]  Sass ran on files
+[5/10/2023 -- 11:19]  restarted!
+[5/10/2023 -- 11:19]  restarted!
+[5/10/2023 -- 11:20]  restarted!
+[5/10/2023 -- 11:20]  Info task started
+[5/10/2023 -- 11:20]  Mustache Templates ran on the HTML files
+[5/10/2023 -- 11:20]  Scripts ran on main.js
+[5/10/2023 -- 11:20]  Sass ran on files
+[5/10/2023 -- 11:21]  Scripts ran on main.js
+[5/10/2023 -- 11:21]  Scripts ran on main.js
+[5/10/2023 -- 11:22]  restarted!
+[5/10/2023 -- 11:22]  Info task started
+[5/10/2023 -- 11:22]  Mustache Templates ran on the HTML files
+[5/10/2023 -- 11:22]  Scripts ran on main.js
+[5/10/2023 -- 11:22]  Sass ran on files
+[5/10/2023 -- 11:22]  restarted!

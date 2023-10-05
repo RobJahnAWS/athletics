@@ -78,7 +78,7 @@ const Search = (props) => {
                 <i className="material-icons close">close</i>
             </a>
             <LoadingBackdrop open={loading} />
-            {props.showingSearch && results?.athletes?.length ? <Athletes athletes={results.athletes} /> : "No Results"}
+            {props.showingSearch && results?.results?.length ? <Athletes athletes={results.results} /> : "No Results"}
         </div>
     )
 }
